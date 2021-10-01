@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+/.vs/complex/v16/ipch/AutoPCH/1af4d5107dbc5a9e
+/.vs/complex/v16
+/.vs
+/Debug/complex.tlog
+/Debug/complex.exe.recipe
+/Debug/complex.ilk
+/Debug/complex.log
+/Debug/complex.pdb
+/Debug/complex.vcxproj.FileListAbsolute.txt
+/Debug/vc142.idb
+/Debug/vc142.pdb
+/complex.vcxproj
+/complex.vcxproj.user
