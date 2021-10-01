@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/.vs
+/Debug
+/complex.sln
+/complex.vcxproj
+/complex.vcxproj.user
